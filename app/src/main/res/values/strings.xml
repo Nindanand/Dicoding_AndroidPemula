@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="anime_name">Judul Anime</string>
+    <string name="rilis">Rilis Film</string>
+    <string name="genre">Genre</string>
+    <string name="about">About</string>
+    <string name="sutradara">Sutradara</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="nama">Kadek Ninda Nandita Putri</string>
+    <string name="email">kadeknindap@gmail.com</string>
+    <string name="universitas">Universitas Gadjah Mada</string>
+    <string-array name="data_name">
+        <item>Angel Beats</item>
+        <item>Attack on Titan</item>
+        <item>Charlotte</item>
+        <item>Your Name</item>
+        <item>Naruto</item>
+        <item>Swort Art Online</item>
+        <item>Your Lie in April</item>
+        <item>Weathering With You</item>
+        <item>Suzume no Tojimari</item>
+        <item>A Whisker Away</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Drama, Supernatural</item>
+        <item>Action fiction, Dark fantasy, Drama</item>
+        <item>Comedy, Drama, Supernatural</item>
+        <item>Award Winning, Drama, Supernatural</item>
+        <item>Adventure, Fantasi, Action Fiction</item>
+        <item>Adventure, Science fiction, Fantasy, Action fiction, Adventure, Animation</item>
+        <item>Shonen manga, Romance</item>
+        <item>Drama, Fantasi, Romance </item>
+        <item>Adventure, Science Fiction</item>
+        <item>Adventure, Drama, Fantasy</item>
+    </string-array>
+    <string-array name="data_rilis">
+        <item>April 2010</item>
+        <item>April 2013</item>
+        <item>July 2015</item>
+        <item>December 2016</item>
+        <item>September 1999</item>
+        <item>July 2012</item>
+        <item>October 2014</item>
+        <item>August 2019</item>
+        <item>March 2023</item>
+        <item>June 2020</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/angelbeats</item>
+        <item>@drawable/aot</item>
+        <item>@drawable/charlotte</item>
+        <item>@drawable/kiminonawa</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/sao</item>
+        <item>@drawable/shigatsu</item>
+        <item>@drawable/suzume</item>
+        <item>@drawable/tenkinoko</item>
+        <item>@drawable/whiskeraway</item>
+    </string-array>
+    <string-array name="data_sutradara">
+        <item>Seiji Kishi</item>
+        <item>Tetsurō Araki</item>
+        <item>Yoshiyuki Asai</item>
+        <item>Makoto Shinkai</item>
+        <item>Hayato Date</item>
+        <item>Tomohiko Ito</item>
+        <item>Kyohei Ishiguro</item>
+        <item>Makoto Shinkai</item>
+        <item>Satoshi Miki</item>
+        <item>Junichi Sato dan Tomotaka Shibayama</item>
+    </string-array>
+    <string-array name="data_sinopsis">
+        <item>"Angel Beats!" adalah serial anime yang berlangsung di alam baka yang misterius. Cerita mengikuti Otonashi, seorang siswa tanpa ingatan tentang kehidupan sebelumnya, yang bergabung dengan kelompok SSS untuk melawan Malaikat yang mengatur alam baka. Malaikat bertugas menjaga ketertiban dan kebahagiaan siswa, tetapi SSS ingin mencari jawaban tentang masa lalu mereka. Seri ini mencampur drama, komedi, dan aksi, menjelajahi tema-tema kehidupan, kematian, dan kebahagiaan dengan karakter yang kuat dan musik yang mendalam.</item>
+        <item>"Attack on Titan," juga dikenal sebagai "Shingeki no Kyojin," adalah sebuah seri manga dan anime yang berlatar di dunia di mana umat manusia hampir punah akibat serangan misterius dari makhluk raksasa yang disebut Titan. Mereka tinggal dalam tembok raksasa yang tinggi untuk melindungi diri, tetapi ketika tembok pertama kali dihancurkan oleh Titan Colossal, petualangan epik dimulai. Eren Yeager, Mikasa Ackerman, dan Armin Arlert bergabung dalam Survey Corps untuk melawan Titan dan mengungkap misteri di balik asal-usul makhluk ini. Cerita ini penuh dengan pertempuran epik, intrik politik, dan pertanyaan filosofis tentang alam manusia, menjadikannya salah satu manga dan anime paling populer di seluruh dunia dengan cerita yang kompleks dan gelap.</item>
+        <item>
+"Charlotte" adalah sebuah seri anime yang mengikuti kisah sekolah para siswa dengan kekuatan khusus yang mereka gunakan untuk memecahkan masalah dalam kehidupan mereka. Ceritanya berpusat pada Yuu Otosaka, seorang remaja dengan kemampuan untuk mengendalikan orang lain selama beberapa detik. Namun, saat dia bertemu dengan seorang gadis bernama Nao Tomori, dia diperkenalkan ke sebuah sekolah khusus yang berusaha untuk mengontrol individu dengan kekuatan supranatural.</item>
+        <item>"Your Name", yang juga dikenal sebagai "Kimi no Na wa," adalah sebuah film anime yang menceritakan tentang dua remaja yang secara misterius bertukar tubuh dan waktu melalui mimpi. Mitsuha dan Taki, yang tinggal di dua kota yang berbeda, mencoba untuk memahami fenomena ini sambil berusaha menjalani kehidupan sehari-hari mereka. Film ini adalah kombinasi indah dari elemen supernatural, roman, dan drama.</item>
+        <item>"Naruto" adalah salah satu seri anime dan manga paling terkenal di dunia yang mengikuti perjalanan Naruto Uzumaki, seorang ninja muda dengan impian untuk menjadi Hokage dan diakui oleh desa tempatnya tinggal. Seiring berjalannya waktu, Naruto menghadapi berbagai macam tantangan, bertemu dengan teman-teman dan musuh-musuh kuat, dan belajar tentang nilai-nilai persahabatan dan keberanian.
+
+</item>
+        <item>"Sword Art Online", atau "SAO," adalah sebuah seri anime yang mengisahkan tentang
+        pemain yang terjebak dalam permainan virtual reality misterius. Mereka harus berjuang untuk
+        bertahan hidup di dalam dunia permainan ini dan mencari cara untuk keluar. Seri ini
+        menggabungkan petualangan, aksi, dan elemen roman yang membuatnya sangat populer di kalangan
+        penggemar anime.</item>
+        <item>"Your Lie in April," atau "Shigatsu wa Kimi no Uso," adalah kisah tentang seorang pemain piano berbakat bernama Kousei Arima yang kehilangan kemampuannya untuk mendengar musik setelah kehilangan ibunya. Namun, saat dia bertemu dengan seorang pemain biola berbakat bernama Kaori Miyazono, hidupnya berubah. Ini adalah cerita tentang kesembuhan, persahabatan, dan cinta dalam konteks dunia musik klasik.</item>
+        <item>"Weathering with You," atau "Tenki no Ko," adalah film anime yang menceritakan tentang seorang remaja bernama Hodaka yang pindah ke Tokyo dan bertemu dengan seorang gadis bernama Hina yang memiliki kemampuan untuk mengendalikan cuaca. Mereka berdua berusaha untuk mengatasi berbagai tantangan hidup sambil menjalani petualangan yang ajaib.</item>
+        <item>"Suzume no Tojimari" adalah film anime yang menceritakan kisah seorang gadis kecil yang menjalani petualangan di dunia fantastis untuk menyelamatkan keluarganya. Film ini penuh dengan makhluk ajaib, pemandangan yang indah, dan petualangan yang penuh warna.
+
+</item>
+        <item>"A Whisker Away", atau "Nakitai Watashi wa Neko wo Kaburu," adalah film anime yang mengikuti kisah Miyo Sasaki, seorang gadis yang memiliki kemampuan untuk berubah menjadi seekor kucing. Dia menggunakan kemampuan tersebut untuk mendekati seorang teman sekelasnya yang dia cintai. Namun, dia belajar bahwa menjadi kucing bukanlah solusi yang sempurna untuk masalahnya.</item>
+    </string-array>
+</resources>
